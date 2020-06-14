@@ -24,3 +24,7 @@ Here are the steps the script takes:
 10. Clear out all the unnecessary rows created by the original file format, reducing it to one row per user response
 11. Clear out the old multiselect columns as they’re no longer needed
 12. Export the data as a CSV to a user’s chosen file path.
+
+----------
+
+For more information, check out my Medium post about this script: https://medium.com/@pippa.gittings/making-hotjar-survey-analysis-easier-b37fdfe7b06e
